@@ -4,7 +4,9 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
-     "start": "node index.js"
+     "start": "node index.js",
+     "build": "echo 'Nothing to build for this Node API'"
+
   },
   "keywords": [],
   "author": "",
